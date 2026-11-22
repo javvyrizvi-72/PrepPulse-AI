@@ -1,0 +1,11 @@
+{
+  "name": "preppulse-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PrepPulse AI — MERN + TypeScript interview practice platform",
+  "scripts": {
+    "build:preview": "npm --prefix client run build",
+    "dev": "npm --prefix client run dev"
+  }
+}
